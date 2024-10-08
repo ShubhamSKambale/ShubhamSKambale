@@ -1,3 +1,6 @@
+<img src="https://media.licdn.com/dms/image/D4D12AQHNKs-i9UbPBA/article-cover_image-shrink_720_1280/0/1671571810050?e=2147483647&v=beta&t=dwKF2xuXiYH3kfP7M20_KFWB8iuKnQIf3jq-_RHvW_Q" alt="Full Stack Developer Banner" style="width:100%; height:auto;" />
+
+
 <h1 align="center">Hi 👋, I'm Shubham Kambale</h1>
 <h3 align="center">A passionate full stack developer</h3>
 <img align="right"  alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIrOCDpVQlw2KFpiitRJUJHN1rDRGRbNTk0Q&s" alt="Image">
